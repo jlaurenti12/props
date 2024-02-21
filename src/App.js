@@ -12,6 +12,11 @@ const style = {
   count: `text-center p-2`
 }
 
+// Create todo
+// Read todo from firebase
+// Update todo in firebase
+// Delete todo
+
 function App() {
   const [todos, setTodos] = useState(['Learn React', 'Grind Leetcode'])
   
